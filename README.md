@@ -10,6 +10,7 @@
 <h3 align="center"> Práctica dirigida 3:  Análisis de la editorial 'BookAnalytics' para identificar oportunidades comerciales </h3> 
 <h3> <b>Integrantes del equipo:</b> </h3>
 <ul>
-  <li>Cardenas Panduro, Ricardo Gabriel (Rick2425) (20241376) </li>
+  <li>Cardenas Panduro, Ricardo Gabriel (Rick2425) (20241376)
+      Ortiz Huamani, Ricardo Fidel (ricardofortizh) (20240724)</li>
 
 </ul>
