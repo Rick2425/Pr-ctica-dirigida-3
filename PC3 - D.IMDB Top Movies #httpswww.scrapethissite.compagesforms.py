@@ -1,3 +1,5 @@
+# Parte 1: Programas en Red
+
 import requests
 
 # 1. Definir la URL objetivo
