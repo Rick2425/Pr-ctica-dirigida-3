@@ -14,6 +14,12 @@
   <li>Tuppia Paitan, Joaquin Francisco (JTPXD) (20241405) </li>
   <li>Almonacid Quispe, Jimmy Salomón (patatita1theoriginal) (20241374) </li>
   <li>Ortiz Huamani, Ricardo Fidel (ricardofortizh) (20240724) </li>
+  <il>Prompt de Joaquin( parte 2): 
+
+"Actúa como un experto en web scraping con Python. Necesito extraer los datos de la página https://www.scrapethissite.com/pages/forms/ usando requests y BeautifulSoup. Por favor, incluye un User-Agent en los headers para simular un navegador. Usa selectores CSS (soup.select) para encontrar las filas con la clase 'team'. Extrae los primeros 20 registros y obtén: nombre del equipo, victorias, derrotas y porcentaje de victorias usando sus respectivas clases CSS (.name, .wins, .losses, .pct). Además, para practicar Regex, une todo el texto de la fila y usa la librería re para extraer el año buscando un patrón de 4 dígitos que empiece estrictamente con 19 o 20. Guarda todo en una lista de diccionarios." 
+Prompt de  Ricardo (parte 3): 
+
+Parte II. Recuperación de Datos (6 puntos) • Obtenga al menos 15 registros desde la página web o API. (2 ptos) • Extraiga tres atributos relevantes para el análisis. (2 ptos) • Utilice al menos una expresión regular para limpiar o extraer un patrón (precio, fecha, código, correo, etc.). (2 ptos) D. IMDB Top Movies (https://www.scrapethissite.com/pages/forms/) Ayudame a hacer esta parte del trabajo, añade las librerias para cumplir con los requisitos requeridos </il>
 
   ![Gráfico de resultados](imagen.jpeg)
   <li>Tengo un archivo llamado registros_hockey_scrapethissite.csv, generado a partir de datos extraídos de la página Scrape This Site sobre equipos de hockey.
