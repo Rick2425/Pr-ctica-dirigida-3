@@ -11,7 +11,8 @@
 <h3> <b>Integrantes del equipo:</b> </h3>
 <ul>
   <li>Cardenas Panduro, Ricardo Gabriel (Rick2425) (20241376) </li>
-  <li>Tuppia Paitan, Joaquin Francisco (JTPXD1) (20241405) </li>
+  <li>Tuppia Paitan, Joaquin Francisco (JTPXD) (20241405) </li>
+  <l1>Almonacid Quispe, Jimmy Salomón (patatita1theoriginal) (20241374) </l1>
 
 
 </ul>
